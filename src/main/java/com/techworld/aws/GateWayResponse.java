@@ -7,6 +7,8 @@ public class GateWayResponse {
     private String body;
 
     private Integer statusCode;
+    
+    private String name = "siva";
 
     private Map<String,String> headers;
 
